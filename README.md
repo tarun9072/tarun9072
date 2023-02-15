@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarun
-- 👀 I’m interested in Android Developing
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Angular
 - 💞️ My skills and I would be honored to transfer my knowledge and experience into any of your projects. I am looking forward to collaborate with you! 
 - 📫 E-mail:tarungorayan@gmail.com
 
