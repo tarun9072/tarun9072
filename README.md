@@ -80,13 +80,6 @@ Most of my recent work lives in private repositories or client environments, so 
 2023 - 2024     Web Developer
 ```
 
-## GitHub
-
-<div align="center">
-
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarun9072&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=cbd5e1&icon_color=60a5fa&rank_icon=github)
-
-</div>
 
 ## Reach Out
 
