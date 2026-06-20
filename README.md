@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-tarungorayan%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarungorayan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarun%20Gorayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarungorayan/)
-[![GitHub](https://img.shields.io/badge/GitHub-tarun9072-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarun9072)
+[![GitHub](https://img.shields.io/badge/GitHub-tarungorayan-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarungorayan)
 
 </div>
 
